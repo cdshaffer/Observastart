@@ -1,0 +1,2833 @@
+{
+    "Genes": [
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8098, 
+            "Start": 7822, 
+            "locustag": "PBI_SHRIMP_23", 
+            "GeneID": "Shrimp_CDS_23", 
+            "AvailableCoord": [
+                7739, 
+                7823, 
+                7835, 
+                7877, 
+                7964, 
+                8066
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7018, 
+            "Start": 6742, 
+            "locustag": "SEA_KBOOGIE_23", 
+            "GeneID": "Kboogie_CDS_23", 
+            "AvailableCoord": [
+                6659, 
+                6743, 
+                6755, 
+                6797, 
+                6884, 
+                6980, 
+                6986
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "PBI_ZYGOTAIGA_24", 
+            "GeneID": "ZygoTaiga_CDS_24", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6981, 
+            "Start": 6705, 
+            "locustag": "SEA_BABYLAND_22", 
+            "GeneID": "Babyland_CDS_22", 
+            "AvailableCoord": [
+                6622, 
+                6706, 
+                6718, 
+                6760, 
+                6847, 
+                6943, 
+                6949
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7020, 
+            "Start": 6744, 
+            "locustag": "GHOST_23", 
+            "GeneID": "Ghost_CDS_23", 
+            "AvailableCoord": [
+                6661, 
+                6745, 
+                6757, 
+                6799, 
+                6886, 
+                6982, 
+                6988
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "PLEIONE_25", 
+            "GeneID": "Pleione_CDS_25", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "AVA3_24", 
+            "GeneID": "Ava3_CDS_24", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7016, 
+            "Start": 6740, 
+            "locustag": "SEA_ADLITAM_22", 
+            "GeneID": "Adlitam_CDS_22", 
+            "AvailableCoord": [
+                6657, 
+                6741, 
+                6753, 
+                6795, 
+                6882, 
+                6978, 
+                6984
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7020, 
+            "Start": 6744, 
+            "locustag": "SEA_AMATAGA_22", 
+            "GeneID": "Amataga_CDS_22", 
+            "AvailableCoord": [
+                6661, 
+                6745, 
+                6757, 
+                6799, 
+                6886, 
+                6982, 
+                6988
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 9508, 
+            "Start": 9232, 
+            "locustag": "SEA_EMTOTHETHREE_26", 
+            "GeneID": "EmToTheThree_CDS_26", 
+            "AvailableCoord": [
+                9149, 
+                9233, 
+                9245, 
+                9287, 
+                9374, 
+                9476
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6977, 
+            "Start": 6701, 
+            "locustag": "SEA_TRINITIUM_22", 
+            "GeneID": "Trinitium_CDS_22", 
+            "AvailableCoord": [
+                6618, 
+                6702, 
+                6714, 
+                6756, 
+                6843, 
+                6939, 
+                6945
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 9618, 
+            "Start": 9342, 
+            "locustag": "SEA_BIGSWOLE_29", 
+            "GeneID": "Bigswole_CDS_29", 
+            "AvailableCoord": [
+                9259, 
+                9343, 
+                9355, 
+                9397, 
+                9484, 
+                9586
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Stop": 6981, 
+            "Start": 6705, 
+            "locustag": null, 
+            "GeneID": "Matsumoto_CDS_21", 
+            "AvailableCoord": [
+                6622, 
+                6706, 
+                6718, 
+                6760, 
+                6847, 
+                6943, 
+                6949
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "SEA_IZAJANI_24", 
+            "GeneID": "Izajani_CDS_24", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7016, 
+            "Start": 6740, 
+            "locustag": "SEA_SHNICKERS_22", 
+            "GeneID": "Shnickers_CDS_22", 
+            "AvailableCoord": [
+                6657, 
+                6741, 
+                6753, 
+                6795, 
+                6882, 
+                6978, 
+                6984
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7701, 
+            "Start": 7425, 
+            "locustag": "PBI_ASTRAEA_24", 
+            "GeneID": "Astraea_CDS_24", 
+            "AvailableCoord": [
+                7342, 
+                7426, 
+                7438, 
+                7480, 
+                7567, 
+                7663, 
+                7669
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8417, 
+            "Start": 8141, 
+            "locustag": "MOMOMIXON_25", 
+            "GeneID": "MoMoMixon_CDS_25", 
+            "AvailableCoord": [
+                8058, 
+                8142, 
+                8154, 
+                8196, 
+                8283, 
+                8385
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7037, 
+            "Start": 6761, 
+            "locustag": "SEA_PATTER_22", 
+            "GeneID": "Patter_CDS_22", 
+            "AvailableCoord": [
+                6678, 
+                6762, 
+                6774, 
+                6816, 
+                6903, 
+                6999, 
+                7005
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "SEA_NEDWONG_24", 
+            "GeneID": "NedWong_CDS_24", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7016, 
+            "Start": 6740, 
+            "locustag": "SEA_LIFESAVOR_23", 
+            "GeneID": "LifeSavor_CDS_23", 
+            "AvailableCoord": [
+                6657, 
+                6741, 
+                6753, 
+                6795, 
+                6882, 
+                6978, 
+                6984
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8095, 
+            "Start": 7819, 
+            "locustag": "SEA_ZEENON_26", 
+            "GeneID": "Zeenon_CDS_26", 
+            "AvailableCoord": [
+                7736, 
+                7820, 
+                7832, 
+                7874, 
+                7961, 
+                8063
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8670, 
+            "Start": 8394, 
+            "locustag": "PBI_I3_25", 
+            "GeneID": "I3_CDS_25", 
+            "AvailableCoord": [
+                8311, 
+                8395, 
+                8407, 
+                8449, 
+                8632, 
+                8638
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7016, 
+            "Start": 6740, 
+            "locustag": "PBI_ARCHERS7_22", 
+            "GeneID": "ArcherS7_CDS_22", 
+            "AvailableCoord": [
+                6657, 
+                6741, 
+                6753, 
+                6795, 
+                6882, 
+                6978, 
+                6984
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7885, 
+            "Start": 7609, 
+            "locustag": "DRAZDYS_24", 
+            "GeneID": "Drazdys_CDS_24", 
+            "AvailableCoord": [
+                7526, 
+                7610, 
+                7622, 
+                7664, 
+                7751, 
+                7847, 
+                7853
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Stop": 7016, 
+            "Start": 6740, 
+            "locustag": null, 
+            "GeneID": "Spec_CDS_21", 
+            "AvailableCoord": [
+                6657, 
+                6741, 
+                6753, 
+                6795, 
+                6882, 
+                6978, 
+                6984
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7020, 
+            "Start": 6744, 
+            "locustag": "SEA_PHLEGM_24", 
+            "GeneID": "Phlegm_CDS_24", 
+            "AvailableCoord": [
+                6661, 
+                6745, 
+                6757, 
+                6799, 
+                6886, 
+                6982, 
+                6988
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "SEA_YEMIJOY2021_24", 
+            "GeneID": "YemiJoy2021_CDS_24", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "SEA_TINYTIM_23", 
+            "GeneID": "TinyTim_CDS_23", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7016, 
+            "Start": 6740, 
+            "locustag": "SEA_SMALLFRY_22", 
+            "GeneID": "SmallFry_CDS_22", 
+            "AvailableCoord": [
+                6657, 
+                6741, 
+                6753, 
+                6795, 
+                6882, 
+                6978, 
+                6984
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7016, 
+            "Start": 6740, 
+            "locustag": "SEA_BANGLA1971_22", 
+            "GeneID": "Bangla1971_CDS_22", 
+            "AvailableCoord": [
+                6657, 
+                6741, 
+                6753, 
+                6795, 
+                6882, 
+                6978, 
+                6984
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "SEA_BREAD_24", 
+            "GeneID": "Bread_CDS_24", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8854, 
+            "Start": 8578, 
+            "locustag": "SEA_SPECKS_27", 
+            "GeneID": "Specks_CDS_27", 
+            "AvailableCoord": [
+                8495, 
+                8579, 
+                8591, 
+                8633, 
+                8720, 
+                8822
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7016, 
+            "Start": 6740, 
+            "locustag": "SEA_PHUSCO_22", 
+            "GeneID": "Phusco_CDS_22", 
+            "AvailableCoord": [
+                6657, 
+                6741, 
+                6753, 
+                6795, 
+                6882, 
+                6978, 
+                6984
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7016, 
+            "Start": 6740, 
+            "locustag": "SEA_TEARDROP_22", 
+            "GeneID": "Teardrop_CDS_22", 
+            "AvailableCoord": [
+                6657, 
+                6741, 
+                6753, 
+                6795, 
+                6882, 
+                6978, 
+                6984
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6981, 
+            "Start": 6705, 
+            "locustag": "SEA_INIGOMONTOYA_24", 
+            "GeneID": "InigoMontoya_CDS_24", 
+            "AvailableCoord": [
+                6622, 
+                6706, 
+                6718, 
+                6760, 
+                6847, 
+                6943, 
+                6949
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Stop": 8050, 
+            "Start": 7774, 
+            "locustag": null, 
+            "GeneID": "Concombre_CDS_23", 
+            "AvailableCoord": [
+                7691, 
+                7775, 
+                7787, 
+                7829, 
+                7916, 
+                8018
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6960, 
+            "Start": 6684, 
+            "locustag": "SEA_MORIZZLED23_22", 
+            "GeneID": "Morizzled23_CDS_22", 
+            "AvailableCoord": [
+                6601, 
+                6685, 
+                6697, 
+                6739, 
+                6826, 
+                6922, 
+                6928
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7020, 
+            "Start": 6744, 
+            "locustag": "SEA_ATLANTEAN_22", 
+            "GeneID": "Atlantean_CDS_22", 
+            "AvailableCoord": [
+                6661, 
+                6745, 
+                6757, 
+                6799, 
+                6886, 
+                6982, 
+                6988
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8088, 
+            "Start": 7812, 
+            "locustag": "SEA_BONRAY_23", 
+            "GeneID": "Bonray_CDS_23", 
+            "AvailableCoord": [
+                7729, 
+                7813, 
+                7825, 
+                7867, 
+                7954, 
+                8056
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7976, 
+            "Start": 7700, 
+            "locustag": "SEA_JUSTHALL_22", 
+            "GeneID": "JustHall_CDS_22", 
+            "AvailableCoord": [
+                7617, 
+                7701, 
+                7713, 
+                7755, 
+                7842, 
+                7938, 
+                7944
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6999, 
+            "Start": 6723, 
+            "locustag": "SEA_ADING_22", 
+            "GeneID": "Ading_CDS_22", 
+            "AvailableCoord": [
+                6640, 
+                6724, 
+                6736, 
+                6778, 
+                6865, 
+                6961, 
+                6967
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8952, 
+            "Start": 8676, 
+            "locustag": "SPUD_26", 
+            "GeneID": "Spud_CDS_26", 
+            "AvailableCoord": [
+                8593, 
+                8677, 
+                8689, 
+                8731, 
+                8818, 
+                8914, 
+                8920
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6999, 
+            "Start": 6723, 
+            "locustag": "SEA_JANIYRA_22", 
+            "GeneID": "Janiyra_CDS_22", 
+            "AvailableCoord": [
+                6640, 
+                6724, 
+                6736, 
+                6778, 
+                6865, 
+                6961, 
+                6967
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "SEA_NORM_23", 
+            "GeneID": "Norm_CDS_23", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7007, 
+            "Start": 6731, 
+            "locustag": "SEA_CHICKENPHENDER_22", 
+            "GeneID": "ChickenPhender_CDS_22", 
+            "AvailableCoord": [
+                6648, 
+                6732, 
+                6744, 
+                6786, 
+                6873, 
+                6969, 
+                6975
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8016, 
+            "Start": 7740, 
+            "locustag": "SEA_YUCCA_23", 
+            "GeneID": "Yucca_CDS_23", 
+            "AvailableCoord": [
+                7657, 
+                7741, 
+                7753, 
+                7795, 
+                7882, 
+                7984
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7020, 
+            "Start": 6744, 
+            "locustag": "SEA_VALLEYTERRACE_22", 
+            "GeneID": "ValleyTerrace_CDS_22", 
+            "AvailableCoord": [
+                6661, 
+                6745, 
+                6757, 
+                6799, 
+                6886, 
+                6982, 
+                6988
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "PARKTD_23", 
+            "GeneID": "ParkTD_CDS_23", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 9674, 
+            "Start": 9398, 
+            "locustag": "SEA_FRAYBELL_29", 
+            "GeneID": "FrayBell_CDS_29", 
+            "AvailableCoord": [
+                9315, 
+                9399, 
+                9411, 
+                9453, 
+                9540, 
+                9636, 
+                9642
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 9671, 
+            "Start": 9395, 
+            "locustag": "SEA_INTERFOLIA_29", 
+            "GeneID": "InterFolia_CDS_29", 
+            "AvailableCoord": [
+                9312, 
+                9396, 
+                9408, 
+                9450, 
+                9537, 
+                9633, 
+                9639
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "SEA_LOANSHARK_23", 
+            "GeneID": "Loanshark_CDS_23", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7020, 
+            "Start": 6744, 
+            "locustag": "SEA_LATCH_22", 
+            "GeneID": "Latch_CDS_22", 
+            "AvailableCoord": [
+                6661, 
+                6745, 
+                6757, 
+                6799, 
+                6886, 
+                6982, 
+                6988
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8428, 
+            "Start": 8152, 
+            "locustag": "SEA_TYKE_25", 
+            "GeneID": "Tyke_CDS_25", 
+            "AvailableCoord": [
+                8069, 
+                8153, 
+                8165, 
+                8207, 
+                8294, 
+                8390, 
+                8396
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Stop": 7020, 
+            "Start": 6744, 
+            "locustag": null, 
+            "GeneID": "Gamgam_CDS_21", 
+            "AvailableCoord": [
+                6661, 
+                6745, 
+                6757, 
+                6799, 
+                6886, 
+                6982, 
+                6988
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7956, 
+            "Start": 7680, 
+            "locustag": "SEA_DARKO_22", 
+            "GeneID": "Darko_CDS_22", 
+            "AvailableCoord": [
+                7597, 
+                7681, 
+                7693, 
+                7735, 
+                7822, 
+                7918, 
+                7924
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8563, 
+            "Start": 8287, 
+            "locustag": "PBI_BXZ1_25", 
+            "GeneID": "Bxz1_CDS_25", 
+            "AvailableCoord": [
+                8204, 
+                8288, 
+                8300, 
+                8342, 
+                8429, 
+                8525, 
+                8531
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8145, 
+            "Start": 7869, 
+            "locustag": "SEA_CAPABLANCA_24", 
+            "GeneID": "Capablanca_CDS_24", 
+            "AvailableCoord": [
+                7786, 
+                7870, 
+                7882, 
+                7924, 
+                8011, 
+                8107, 
+                8113
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7020, 
+            "Start": 6744, 
+            "locustag": "SEA_PIVOINE_22", 
+            "GeneID": "Pivoine_CDS_22", 
+            "AvailableCoord": [
+                6661, 
+                6745, 
+                6757, 
+                6799, 
+                6886, 
+                6982, 
+                6988
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "SEA_DAFFODIL_25", 
+            "GeneID": "Daffodil_CDS_25", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6977, 
+            "Start": 6701, 
+            "locustag": "PBI_BREENIOME_23", 
+            "GeneID": "Breeniome_CDS_23", 
+            "AvailableCoord": [
+                6618, 
+                6702, 
+                6714, 
+                6756, 
+                6843, 
+                6939, 
+                6945
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "SEA_SALACIA_25", 
+            "GeneID": "Salacia_CDS_25", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6977, 
+            "Start": 6701, 
+            "locustag": "SEA_GABRIEL_23", 
+            "GeneID": "Gabriel_CDS_23", 
+            "AvailableCoord": [
+                6618, 
+                6702, 
+                6714, 
+                6756, 
+                6843, 
+                6939, 
+                6945
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7020, 
+            "Start": 6744, 
+            "locustag": "SEA_JEDEDIAH_23", 
+            "GeneID": "Jedediah_CDS_23", 
+            "AvailableCoord": [
+                6661, 
+                6745, 
+                6757, 
+                6799, 
+                6886, 
+                6982, 
+                6988
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7016, 
+            "Start": 6740, 
+            "locustag": "SEA_SHIALABEOUF_22", 
+            "GeneID": "ShiaLabeouf_CDS_22", 
+            "AvailableCoord": [
+                6657, 
+                6741, 
+                6753, 
+                6795, 
+                6882, 
+                6978, 
+                6984
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "SEA_DELILAH_23", 
+            "GeneID": "Delilah_CDS_23", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7344, 
+            "Start": 7068, 
+            "locustag": "SEA_KAMRYN_22", 
+            "GeneID": "Kamryn_CDS_22", 
+            "AvailableCoord": [
+                6985, 
+                7069, 
+                7081, 
+                7123, 
+                7210, 
+                7312
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Stop": 6284, 
+            "Start": 6008, 
+            "locustag": null, 
+            "GeneID": "Blubba_CDS_17", 
+            "AvailableCoord": [
+                5925, 
+                6009, 
+                6021, 
+                6063, 
+                6150, 
+                6246, 
+                6252
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6977, 
+            "Start": 6701, 
+            "locustag": "SEA_GUWAPP_22", 
+            "GeneID": "Guwapp_CDS_22", 
+            "AvailableCoord": [
+                6618, 
+                6702, 
+                6714, 
+                6756, 
+                6843, 
+                6939, 
+                6945
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8877, 
+            "Start": 8601, 
+            "locustag": "DANDELION_27", 
+            "GeneID": "Dandelion_CDS_28", 
+            "AvailableCoord": [
+                8518, 
+                8602, 
+                8614, 
+                8656, 
+                8743, 
+                8839, 
+                8845
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7020, 
+            "Start": 6744, 
+            "locustag": "SEA_CINDYLOU_22", 
+            "GeneID": "CindyLou_CDS_22", 
+            "AvailableCoord": [
+                6661, 
+                6745, 
+                6757, 
+                6799, 
+                6886, 
+                6982, 
+                6988
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "SEA_ZALKECKS_25", 
+            "GeneID": "Zalkecks_CDS_25", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "SEA_DRPHINKDADDY_23", 
+            "GeneID": "DrPhinkDaddy_CDS_23", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7016, 
+            "Start": 6740, 
+            "locustag": "SEA_RAHEL_22", 
+            "GeneID": "Rahel_CDS_22", 
+            "AvailableCoord": [
+                6657, 
+                6741, 
+                6753, 
+                6795, 
+                6882, 
+                6978, 
+                6984
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6960, 
+            "Start": 6684, 
+            "locustag": "SEA_MELPOMINI_22", 
+            "GeneID": "Melpomini_CDS_22", 
+            "AvailableCoord": [
+                6601, 
+                6685, 
+                6697, 
+                6739, 
+                6826, 
+                6922, 
+                6928
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6977, 
+            "Start": 6701, 
+            "locustag": "SEA_DEREK_23", 
+            "GeneID": "Derek_CDS_23", 
+            "AvailableCoord": [
+                6618, 
+                6702, 
+                6714, 
+                6756, 
+                6843, 
+                6939, 
+                6945
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8777, 
+            "Start": 8501, 
+            "locustag": "SEA_LOLAVINCA_26", 
+            "GeneID": "LolaVinca_CDS_26", 
+            "AvailableCoord": [
+                8418, 
+                8502, 
+                8514, 
+                8556, 
+                8643, 
+                8739, 
+                8745
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7989, 
+            "Start": 7713, 
+            "locustag": "PBI_WILLIS_24", 
+            "GeneID": "Willis_CDS_24", 
+            "AvailableCoord": [
+                7630, 
+                7714, 
+                7726, 
+                7768, 
+                7855, 
+                7957
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Stop": 8109, 
+            "Start": 7833, 
+            "locustag": null, 
+            "GeneID": "DirtMonster_CDS_21", 
+            "AvailableCoord": [
+                7750, 
+                7834, 
+                7846, 
+                7888, 
+                7975, 
+                8071, 
+                8077
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7020, 
+            "Start": 6744, 
+            "locustag": "PBI_LITTLETON_23", 
+            "GeneID": "Littleton_CDS_23", 
+            "AvailableCoord": [
+                6661, 
+                6745, 
+                6757, 
+                6799, 
+                6886, 
+                6982, 
+                6988
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7020, 
+            "Start": 6744, 
+            "locustag": "SEA_JEMMNO_22", 
+            "GeneID": "Jemmno_CDS_22", 
+            "AvailableCoord": [
+                6661, 
+                6745, 
+                6757, 
+                6799, 
+                6886, 
+                6982, 
+                6988
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "SEA_FUDGETART_24", 
+            "GeneID": "FudgeTart_CDS_24", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Stop": 7020, 
+            "Start": 6744, 
+            "locustag": null, 
+            "GeneID": "Chomp_CDS_21", 
+            "AvailableCoord": [
+                6661, 
+                6745, 
+                6757, 
+                6799, 
+                6886, 
+                6982, 
+                6988
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8267, 
+            "Start": 7991, 
+            "locustag": "NAPPY_25", 
+            "GeneID": "Nappy_CDS_25", 
+            "AvailableCoord": [
+                7908, 
+                7992, 
+                8004, 
+                8046, 
+                8133, 
+                8229, 
+                8235
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "SEA_MIKELIESIN_24", 
+            "GeneID": "MikeLiesIn_CDS_24", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7980, 
+            "Start": 7704, 
+            "locustag": "SEA_QUASIMODO_22", 
+            "GeneID": "Quasimodo_CDS_22", 
+            "AvailableCoord": [
+                7621, 
+                7705, 
+                7717, 
+                7759, 
+                7846, 
+                7942, 
+                7948
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7049, 
+            "Start": 6773, 
+            "locustag": "SEA_CHAYLAJR_22", 
+            "GeneID": "ChaylaJr_CDS_22", 
+            "AvailableCoord": [
+                6690, 
+                6774, 
+                6786, 
+                6828, 
+                6915, 
+                7011, 
+                7017
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "SEA_ERDMANN_24", 
+            "GeneID": "Erdmann_CDS_24", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "SEA_MEGAMIND_23", 
+            "GeneID": "Megamind_CDS_23", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6963, 
+            "Start": 6687, 
+            "locustag": "SEA_FLUDD_22", 
+            "GeneID": "Fludd_CDS_22", 
+            "AvailableCoord": [
+                6604, 
+                6688, 
+                6700, 
+                6742, 
+                6829, 
+                6925, 
+                6931
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7987, 
+            "Start": 7711, 
+            "locustag": "SEA_BANANAFENCE_25", 
+            "GeneID": "BananaFence_CDS_25", 
+            "AvailableCoord": [
+                7628, 
+                7712, 
+                7724, 
+                7766, 
+                7853, 
+                7949, 
+                7955
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6962, 
+            "Start": 6686, 
+            "locustag": "SEA_CHARGIE21_22", 
+            "GeneID": "Chargie21_CDS_22", 
+            "AvailableCoord": [
+                6603, 
+                6687, 
+                6699, 
+                6741, 
+                6828, 
+                6924, 
+                6930
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8629, 
+            "Start": 8353, 
+            "locustag": "SEA_MANGERIA_26", 
+            "GeneID": "Mangeria_CDS_26", 
+            "AvailableCoord": [
+                8270, 
+                8354, 
+                8366, 
+                8408, 
+                8495, 
+                8591, 
+                8597
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8093, 
+            "Start": 7817, 
+            "locustag": "SEA_ROOTS515_23", 
+            "GeneID": "Roots515_CDS_23", 
+            "AvailableCoord": [
+                7734, 
+                7818, 
+                7830, 
+                7872, 
+                7959, 
+                8061
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7016, 
+            "Start": 6740, 
+            "locustag": null, 
+            "GeneID": "Jaygup_CDS_22", 
+            "AvailableCoord": [
+                6657, 
+                6741, 
+                6753, 
+                6795, 
+                6882, 
+                6978, 
+                6984
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6962, 
+            "Start": 6686, 
+            "locustag": "SEA_BASQUIAT_22", 
+            "GeneID": "Basquiat_CDS_22", 
+            "AvailableCoord": [
+                6603, 
+                6687, 
+                6699, 
+                6741, 
+                6828, 
+                6924, 
+                6930
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7020, 
+            "Start": 6744, 
+            "locustag": "SEA_SILVERDIPPER_23", 
+            "GeneID": "SilverDipper_CDS_23", 
+            "AvailableCoord": [
+                6661, 
+                6745, 
+                6757, 
+                6799, 
+                6886, 
+                6982, 
+                6988
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6999, 
+            "Start": 6723, 
+            "locustag": "SEA_AUDRICK_24", 
+            "GeneID": "Audrick_CDS_24", 
+            "AvailableCoord": [
+                6640, 
+                6724, 
+                6736, 
+                6778, 
+                6865, 
+                6961, 
+                6967
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "PBI_GIZMO_25", 
+            "GeneID": "Gizmo_CDS_25", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7016, 
+            "Start": 6740, 
+            "locustag": "SEA_TORTOISE16_21", 
+            "GeneID": "Tortoise16_CDS_21", 
+            "AvailableCoord": [
+                6657, 
+                6741, 
+                6753, 
+                6795, 
+                6882, 
+                6978, 
+                6984
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Stop": 8071, 
+            "Start": 7795, 
+            "locustag": null, 
+            "GeneID": "JayJay_CDS_25", 
+            "AvailableCoord": [
+                7712, 
+                7796, 
+                7808, 
+                7850, 
+                7937, 
+                8033, 
+                8039
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "SEA_MABY2021_24", 
+            "GeneID": "Maby2021_CDS_24", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6977, 
+            "Start": 6701, 
+            "locustag": "SEA_BACKYARDAGAIN_21", 
+            "GeneID": "BackyardAgain_CDS_21", 
+            "AvailableCoord": [
+                6618, 
+                6702, 
+                6714, 
+                6756, 
+                6843, 
+                6939, 
+                6945
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6981, 
+            "Start": 6705, 
+            "locustag": "PBI_CATERA_22", 
+            "GeneID": "Catera_CDS_22", 
+            "AvailableCoord": [
+                6622, 
+                6706, 
+                6718, 
+                6760, 
+                6847, 
+                6943, 
+                6949
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8952, 
+            "Start": 8676, 
+            "locustag": "PIO_26", 
+            "GeneID": "Pio_CDS_26", 
+            "AvailableCoord": [
+                8593, 
+                8677, 
+                8689, 
+                8731, 
+                8818, 
+                8914, 
+                8920
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7020, 
+            "Start": 6744, 
+            "locustag": "SEA_MOMO_22", 
+            "GeneID": "Momo_CDS_22", 
+            "AvailableCoord": [
+                6661, 
+                6745, 
+                6757, 
+                6799, 
+                6886, 
+                6982, 
+                6988
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6981, 
+            "Start": 6705, 
+            "locustag": "WALLY_22", 
+            "GeneID": "Wally_CDS_22", 
+            "AvailableCoord": [
+                6622, 
+                6706, 
+                6718, 
+                6760, 
+                6847, 
+                6943, 
+                6949
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8094, 
+            "Start": 7818, 
+            "locustag": "SEA_EWOK_23", 
+            "GeneID": "Ewok_CDS_23", 
+            "AvailableCoord": [
+                7735, 
+                7819, 
+                7831, 
+                7873, 
+                7960, 
+                8062
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7015, 
+            "Start": 6739, 
+            "locustag": "RIZAL_22", 
+            "GeneID": "Rizal_CDS_22", 
+            "AvailableCoord": [
+                6656, 
+                6740, 
+                6752, 
+                6794, 
+                6881, 
+                6977, 
+                6983
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 8184, 
+            "Start": 7908, 
+            "locustag": "SEA_DTDEVON_24", 
+            "GeneID": "DTDevon_CDS_24", 
+            "AvailableCoord": [
+                7825, 
+                7909, 
+                7921, 
+                7963, 
+                8050, 
+                8146, 
+                8152
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 7020, 
+            "Start": 6744, 
+            "locustag": "SEA_NAIJA_22", 
+            "GeneID": "Naija_CDS_22", 
+            "AvailableCoord": [
+                6661, 
+                6745, 
+                6757, 
+                6799, 
+                6886, 
+                6982, 
+                6988
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }, 
+        {
+            "Orientation": "F", 
+            "Editable": "True", 
+            "Stop": 6979, 
+            "Start": 6703, 
+            "locustag": "SEA_NAPOLEON13_22", 
+            "GeneID": "Napoleon13_CDS_22", 
+            "AvailableCoord": [
+                6620, 
+                6704, 
+                6716, 
+                6758, 
+                6845, 
+                6941, 
+                6947
+            ], 
+            "AvailableStarts": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }
+    ], 
+    "Name": "908", 
+    "MemberCount": 111, 
+    "DbVersion": 535, 
+    "Aligner": "ClustalW", 
+    "Annots": {
+        "Starts": [
+            2
+        ], 
+        "Counts": [
+            103
+        ]
+    }, 
+    "Conservation": {
+        "1": 1.0, 
+        "2": 1.0, 
+        "3": 1.0, 
+        "4": 1.0, 
+        "5": 0.990990990990991, 
+        "6": 0.6846846846846847, 
+        "7": 1.0
+    }, 
+    "AnnotCount": 103, 
+    "TotalStarts": 7
+}
